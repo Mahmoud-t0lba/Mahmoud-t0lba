@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Tolba</h1>
-<h3 align="center">Flutter developer</h3>
+<h3 align="center">Senior Flutter developer</h3>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=mahmoud-t0lba&label=Profile%20views&color=0e75b6&style=flat"
@@ -32,9 +32,8 @@
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
             height="40" /> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift"
-            width="40" height="40" /> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"
-            height="40" /> </a>
+            width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /> </a>
 </p>
 
 <p><img align="left"
