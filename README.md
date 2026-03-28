@@ -9,9 +9,6 @@
   <a href="mailto:mahmoudt0lba0111@gmail.com">
     <img src="https://img.shields.io/badge/Email-mahmoudt0lba0111%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Mahmoud-t0lba">
-    <img src="https://img.shields.io/badge/GitHub-Mahmoud--t0lba-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/mahmoud-t0lba/">
     <img src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Tolba-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
